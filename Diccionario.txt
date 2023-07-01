@@ -1,0 +1,5 @@
+Python : Un lenguaje de programación de alto nivel y fácil de aprender.
+Programación : El proceso de escribir, probar y mantener el código fuente de un programa de computadora.
+Inteligencia Artificial : La capacidad de una máquina para imitar la inteligencia humana y realizar tareas como el aprendizaje y la resolución de problemas.
+Algoritmo : Un conjunto de pasos o reglas bien definidas para resolver un problema en un número finito de operaciones.
+Cifrado : El proceso de convertir información en un formato ininteligible para que solo pueda ser leída por aquellos que tengan la clave de desencriptación.
